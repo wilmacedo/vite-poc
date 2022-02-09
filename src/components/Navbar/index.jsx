@@ -1,7 +1,7 @@
 import "./styles.css";
 
 const Navbar = () => {
-  const links = ["Features", "Solutions", "Resources", "Pricing"];
+  const links = ["Features", "Solutions", "Resources", "Dates"];
 
   return (
     <nav className="navbar-container">
